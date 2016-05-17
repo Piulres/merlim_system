@@ -1,4 +1,4 @@
-Merlim Crud Creator
+Merlim Crud Creator v1
 
 ========
 
@@ -17,3 +17,5 @@ Install
 
 	Set config.php and run database.sql query
 
+========
+	credits to @chapagain
